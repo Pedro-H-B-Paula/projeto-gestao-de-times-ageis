@@ -25,3 +25,16 @@ pokedex = {
     74: {"nome": "Geodude", "tipo": "Pedra/Terra", "id":"74"},
     75: {"nome": "Graveler", "tipo": "Pedra/Terra", "id":"75"},
 }
+
+numero = int(input("Digite o número do Pokémon: "))
+
+if numero in pokedex:
+    pokemon = pokedex[numero]
+
+    print("\n=== POKÉMON ENCONTRADO ===")
+    print(f"Número: {numero}")
+    print(f"Nome: {pokemon['nome']}")
+    print(f"Tipo: {pokemon['tipo']}")
+
+else:
+    print("Pokémon não encontrado.")
