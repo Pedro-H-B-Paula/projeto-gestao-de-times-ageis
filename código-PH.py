@@ -11,7 +11,7 @@ pokedex = {
 9:{'nome':'Blastoise','tipo':'Água',},
 10:{'nome':'Caterpie','tipo':'Inseto',},            
 11:{'nome':'Metapod','tipo':'Inseto',}, 
-12:{'nome':'Butterfree','tipo':'Inseto/Voador',},  
+12:{'nome':'Butterfree','tipo':'Inseto/Voador',},
 13:{'nome':'Weedle','tipo':'Inseto/Venenoso',},            
 14:{'nome':'Kakuna','tipo':'Inseto/Venenoso',},  
 15:{'nome':'Beedrill','tipo':'Inseto/Venenoso',},  
