@@ -1,7 +1,7 @@
 pokedex = {
     51: {"nome": "Dugtrio", "tipo": "Terra", "id":"51"},
     52: {"nome": "Meowth", "tipo": "Normal", "id":"52"},
-    53: {"nome": "Pikachu", "tipo": "Normal", "id":"53"},
+    53: {"nome": "Persian", "tipo": "Normal", "id":"53"},
     54: {"nome": "Psyduck", "tipo": "Água", "id":"54"},
     55: {"nome": "Golduck", "tipo": "Água", "id":"55"},
     56: {"nome": "Mankey", "tipo": "Lutador", "id":"56"},
